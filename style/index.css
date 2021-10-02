@@ -1,0 +1,39 @@
+:root {
+    background-color: #ECE9E1;
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background-color: #ECE9E1;
+    font-family: 'Oswald', sans-serif;   
+}
+.redes nav {
+display: block;
+
+}
+
+#navBar{
+    background-color: #253C85;
+   
+}
+
+.imgPortada > img{
+    height: auto;
+    width: 100vw;
+    padding-top: 0.01rem;
+}
+footer{
+	margin-top: 25px;
+	text-align: center;	
+	background-color: #0099CC;
+    
+}
+h2 {
+padding: 2rem;
+text-align: center;
+}
+
+.conocenos > img{
+text-align: center;    
+margin: auto;
+display: block;
+}
