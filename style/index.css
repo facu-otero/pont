@@ -11,10 +11,7 @@ display: block;
 
 }
 
-#navBar{
-    background-color: #253C85;
-   
-}
+
 
 .imgPortada > img{
     height: auto;
@@ -36,4 +33,6 @@ text-align: center;
 text-align: center;    
 margin: auto;
 display: block;
+max-width: 80%;
+
 }
